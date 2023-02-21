@@ -4,7 +4,8 @@
 * ℹ️ Event page: https://www.meetup.com/pyladiesdublin/events/291537845/
 
 ## Announcements
-Vicky will add link to announcements here after the event
+Vicky's announcements:
+* https://docs.google.com/presentation/d/e/2PACX-1vRasLj7A_ZPBVOB0mnMx-AhzDtwpKgO9D8KzMjwsJpPBFoS2X8wga98tzjvH5YH7-L3L4apAgvEioJ0/pub?start=false&loop=false&delayms=3000
 
 ## TALKS
 ### Talk 1: Three Quick, Easy and No-Scraper ways of Getting Text Data using Python
