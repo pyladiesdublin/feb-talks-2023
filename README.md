@@ -10,6 +10,8 @@ Vicky will add link to announcements here after the event
 ### Talk 1: Three Quick, Easy and No-Scraper ways of Getting Text Data using Python
 (15 mins) Tired of using the same old data in the tutorials? Text data is abundant but it is difficult to scrape them all! In this talk, I will present three easy-to-use Python libraries that will enable you to build your own datasets and add a unique spin to your data science projects.
 
+* [Slides and Notebook (demo)](https://github.com/royn5618/Talks_Resources/tree/main/PyLadies/TextDataScrape_ThreeQuickWays)
+
 ### About Nabanita Roy
 Data Scientist @ EY (UK & Irleand) | Education Lead @ Women in AI Ireland | <3 NLP
 
