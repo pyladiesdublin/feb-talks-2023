@@ -20,8 +20,12 @@ Data Scientist @ EY (UK & Irleand) | Education Lead @ Women in AI Ireland | <3 N
 
 ### Talk 2: I ❤️ VisiData
 (20 mins) VisiData (https://www.visidata.org) is a powerful text based tabular data tool. Think of it like vim for spreadsheets or a command line Excel.
+
 Michael has been using VisiData for years to quickly pivot through random datasets before doing deeper analysis. He's used it for crunching through access logs to pull out suspicious activities for further security analysis, debugging TCP traffic using flow logs and used it with scripts to understand JSON data.
+
 In this talk Michael will run through VisiData, some of the features he commonly uses (along with the keyboard shortcuts!), the plugins available and some scripting he does with it.
+
+* [Slides](https://github.com/micktwomey/visidata-talk)
 
 ### About Michael Twomey
 Michael has been working professionally as a software engineer for over twenty years, with a strong emphasis on Python and systems design.
